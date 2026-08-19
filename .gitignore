@@ -1,0 +1,6 @@
+# This public showcase must stay static and credential-free.
+*.env
+*.key
+*registration*.json
+*credential*
+*secret*
